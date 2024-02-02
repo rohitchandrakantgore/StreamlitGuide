@@ -3,6 +3,9 @@ import pandas as pd
 import numpy as np
 
 
+st.markdown("# Layout ")
+st.sidebar.markdown("# Layout ")
+
 # sidebar() - organize widegets on left panel sidebar
 
 ## selectbox() to sidebar

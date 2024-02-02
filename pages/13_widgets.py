@@ -2,6 +2,9 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
+st.markdown("# Widgets ")
+st.sidebar.markdown("# Widgets ")
+
 #slider()
 st.write("**slider() widget**")
 x = st.slider('x')
